@@ -61,6 +61,7 @@ ROC-AUC
 
 ## Results
 Best model:  Random Forest with 97% accuracy
+
 Key insight: HbA1c level and blood glucose level were the most important predictors.
 
 
